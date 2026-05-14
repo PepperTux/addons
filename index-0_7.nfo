@@ -7,8 +7,8 @@
     (description "Currently only contains one level that needs to be improved.")
     (author "Vaesea")
     (license "CC-BY-SA 4.0 International")
-    (url "https://raw.githubusercontent.com/SuperTux/addons/169d59f7e2e546b039a17cfea5a7902b2cad707f/repository/dungeon-island.zip")
-    (md5 "f5ee875b7e5bcc3f048f568371d4db1f")
+    (url "https://raw.githubusercontent.com/PepperTux/addons/9175e95d3da67fca611417360116290184aa87a9/repository/extra1.zip")
+    (md5 "fceb6a4e10f754581fcffe0379eca3eb65a0b894")
   )
 )
 
