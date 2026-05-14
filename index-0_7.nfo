@@ -2,7 +2,7 @@
   (supertux-addoninfo
     (id "extra1")
     (version 1)
-    (type levelset
+    (type "levelset")
     (title "Extra Island 1 Preview")
     (description "Currently only contains one level that needs to be improved.")
     (author "Vaesea")
