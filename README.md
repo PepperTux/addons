@@ -8,7 +8,6 @@ This may include the following planned add-ons (some may be made after developme
 - Tropical Island (The scrapped PepperTux version of the Tropical Paradise world)
 - PepperTux Halloween (Simple Halloween Special replacement)
 - PepperTux Christmas (Simple Christmas Special replacement)
-- The Crazy Nolok Challenge (1-level add-on that has a level that is extremely long (similar to A Long Adventure's length), difficult, and will probably be crazy. This level would be like the "Bambi Marathon" of SuperTux or whatever. You are not ready for this add-on to exist. I wouldn't even recommend playing this if I do actually make this)
 - Cavern Of Crystals (A 5-level add-on based on the Crystal Cave tiles)
 
 Might also include other weird things I decide to make.
